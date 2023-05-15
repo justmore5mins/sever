@@ -1,5 +1,5 @@
-[20:27:01] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.19
-[20:27:01] [main/INFO]: Loading 52 mods:
+[20:45:08] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.19
+[20:45:09] [main/INFO]: Loading 52 mods:
 	- appleskin 2.4.3+mc1.19.4
 	   \-- cloth-config 10.0.95
 	        \-- cloth-basic-math 0.6.1
@@ -64,67 +64,70 @@
 	- smoothboot 1.19.4-1.7.0
 	- wthit 7.2.5
 	- xaerominimap 23.4.0
-[20:27:02] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/Users/AustinYu/Documents/sever/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[20:27:02] [main/INFO]: Compatibility level set to JAVA_17
-[20:27:02] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 0 override(s) found
-[20:27:06] [main/INFO]: Smooth Boot config initialized
-[20:27:24] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
-[20:27:24] [main/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
-[20:27:24] [main/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
-[20:27:24] [main/INFO]: [WTHIT] Plugin config reloaded
-[20:27:25] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[20:27:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:27:26] [main/INFO]: Found new data pack fabric, loading it automatically
-[20:27:29] [main/INFO]: Loaded 7 recipes
-[20:27:30] [main/INFO]: Loaded 1179 advancements
-[20:27:31] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 3.820 ms
-[20:27:35] [Server thread/INFO]: [WTHIT] Plugin config reloaded
-[20:27:35] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[20:27:35] [Server thread/INFO]: Loading properties
-[20:27:35] [Server thread/INFO]: Default game type: SURVIVAL
-[20:27:35] [Server thread/INFO]: Generating keypair
-[20:27:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:27:36] [Server thread/INFO]: Using default channel type
-[20:27:36] [Server thread/INFO]: Preparing level "world"
-[20:27:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:27:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:27:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:27:54] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[20:27:54] [Worker-Main-6/INFO]: Preparing spawn area: 60%
-[20:27:55] [Server thread/INFO]: Time elapsed: 13437 ms
-[20:27:55] [Server thread/INFO]: Done (19.355s)! For help, type "help"
-[20:27:55] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[20:28:22] [Server thread/INFO]: Made justmore5mins a server operator
-[20:39:51] [Server thread/INFO]: Stopping the server
-[20:39:51] [Server thread/INFO]: Stopping server
-[20:39:51] [Server thread/INFO]: Saving players
-[20:39:51] [Server thread/INFO]: Saving worlds
-[20:39:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:39:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:39:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:39:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:39:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:39:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:39:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:45:09] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/Users/AustinYu/Documents/sever/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[20:45:09] [main/INFO]: Compatibility level set to JAVA_17
+[20:45:10] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 0 override(s) found
+[20:45:13] [main/INFO]: Smooth Boot config initialized
+[20:45:45] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
+[20:45:46] [main/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
+[20:45:46] [main/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
+[20:45:46] [main/INFO]: [WTHIT] Plugin config reloaded
+[20:45:47] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[20:45:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:45:50] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[20:45:52] [main/INFO]: Loaded 7 recipes
+[20:45:53] [main/INFO]: Loaded 1179 advancements
+[20:45:54] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 3.231 ms
+[20:45:54] [Server thread/INFO]: [WTHIT] Plugin config reloaded
+[20:45:54] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[20:45:54] [Server thread/INFO]: Loading properties
+[20:45:54] [Server thread/INFO]: Default game type: SURVIVAL
+[20:45:54] [Server thread/INFO]: Generating keypair
+[20:45:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:45:54] [Server thread/INFO]: Using default channel type
+[20:45:55] [Server thread/INFO]: Preparing level "world"
+[20:46:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:46:16] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[20:46:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:46:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:46:16] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:46:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:46:16] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:46:16] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:46:16] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:46:16] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:46:16] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:46:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:46:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:46:16] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:46:17] [Worker-Main-6/INFO]: Preparing spawn area: 11%
+[20:46:18] [Worker-Main-5/INFO]: Preparing spawn area: 48%
+[20:46:18] [Worker-Main-4/INFO]: Preparing spawn area: 68%
+[20:46:20] [Server thread/INFO]: Time elapsed: 16470 ms
+[20:46:20] [Server thread/INFO]: Done (25.088s)! For help, type "help"
+[20:46:20] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[20:47:25] [Server thread/INFO]: Stopping the server
+[20:47:26] [Server thread/INFO]: Stopping server
+[20:47:26] [Server thread/INFO]: Saving players
+[20:47:26] [Server thread/INFO]: Saving worlds
+[20:47:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:47:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:47:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:47:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:47:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:47:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:47:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
