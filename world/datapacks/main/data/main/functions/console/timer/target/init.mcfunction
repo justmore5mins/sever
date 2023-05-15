@@ -1,1 +1,0 @@
-scoreboard players set @e[type=marker,name="console",limit=1,scores={target_timer=-1}] target_timer 0

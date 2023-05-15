@@ -1,5 +1,5 @@
-[21:02:57] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.19
-[21:02:58] [main/INFO]: Loading 52 mods:
+[21:08:51] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.19
+[21:08:51] [main/INFO]: Loading 52 mods:
 	- appleskin 2.4.3+mc1.19.4
 	   \-- cloth-config 10.0.95
 	        \-- cloth-basic-math 0.6.1
@@ -64,255 +64,150 @@
 	- smoothboot 1.19.4-1.7.0
 	- wthit 7.2.5
 	- xaerominimap 23.4.0
-[21:02:58] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/Users/AustinYu/Documents/sever/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[21:02:58] [main/INFO]: Compatibility level set to JAVA_17
-[21:02:59] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 0 override(s) found
-[21:03:01] [main/INFO]: Smooth Boot config initialized
-[21:03:20] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
-[21:03:20] [main/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
-[21:03:20] [main/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
-[21:03:20] [main/INFO]: [WTHIT] Plugin config reloaded
-[21:03:21] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[21:03:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:03:22] [main/INFO]: Found new data pack file/main, loading it automatically
-[21:03:22] [main/INFO]: Found new data pack file/trainingmode, loading it automatically
-[21:03:25] [main/INFO]: Loaded 0 recipes
-[21:03:26] [main/INFO]: Loaded 0 advancements
-[21:03:27] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 4.419 ms
-[21:03:27] [Server thread/INFO]: [WTHIT] Plugin config reloaded
-[21:03:27] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[21:03:27] [Server thread/INFO]: Loading properties
-[21:03:27] [Server thread/INFO]: Default game type: SURVIVAL
-[21:03:27] [Server thread/INFO]: Generating keypair
-[21:03:27] [Server thread/INFO]: Starting Minecraft server on 192.168.1.103:25565
-[21:03:27] [Server thread/INFO]: Using default channel type
-[21:03:28] [Server thread/INFO]: Preparing level "world"
-[21:03:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:03:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:03:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:03:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:03:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:03:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:03:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:03:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:03:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:03:42] [User Authenticator #1/INFO]: UUID of player justmore5mins is 27b0ff8b-d02a-41cc-8942-ada228a08b2e
-[21:03:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:03:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:03:43] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:03:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:03:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:03:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:03:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:03:43] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:03:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:03:43] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:03:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:03:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:03:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:03:44] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:03:45] [Worker-Main-5/INFO]: Preparing spawn area: 13%
-[21:03:45] [Worker-Main-4/INFO]: Preparing spawn area: 43%
-[21:03:46] [Worker-Main-1/INFO]: Preparing spawn area: 54%
-[21:03:47] [Worker-Main-3/INFO]: Preparing spawn area: 97%
-[21:03:49] [Server thread/INFO]: Time elapsed: 15433 ms
-[21:03:49] [Server thread/INFO]: Done (21.287s)! For help, type "help"
-[21:03:50] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[21:03:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@1aeb24f4[id=27b0ff8b-d02a-41cc-8942-ada228a08b2e,name=justmore5mins,properties={textures=[com.mojang.authlib.properties.Property@24cfc73c]},legacy=false] (/192.168.1.103:51222) lost connection: Disconnected
-[21:03:53] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:03:57] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[21:04:04] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:05] [User Authenticator #2/INFO]: UUID of player justmore5mins is 27b0ff8b-d02a-41cc-8942-ada228a08b2e
-[21:04:05] [Server thread/INFO]: justmore5mins[/192.168.1.103:51281] logged in with entity id 136 at (-5.5, -60.0, -9.5)
-[21:04:06] [Server thread/INFO]: justmore5mins joined the game
-[21:04:08] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:11] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:11] [Server thread/INFO]: Player justmore5mins joined with a matching carpet client
-[21:04:15] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:19] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:23] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:27] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:28] [Server thread/INFO]: [justmore5mins: Set the time to 1000]
-[21:04:31] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:35] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:39] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:43] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:47] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:51] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:55] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:04:59] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:05:03] [Server thread/INFO]: [@: Executed 13 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:03] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:05:03] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:03] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:03] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:04] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:04] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:04] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:04] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:04] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2191ms or 43 ticks behind
-[21:05:06] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:07] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:07] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:07] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:07] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:08] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:08] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:08] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:08] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:08] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:08] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:10] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:05:12] [Server thread/INFO]: [@: Executed 13 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:12] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:13] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:13] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:13] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:13] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:13] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:13] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:13] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:13] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:14] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:05:18] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:05:21] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:05:26] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:05:30] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:05:34] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:05:34] [Server thread/INFO]: [@: Executed 13 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:34] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:34] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:34] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:34] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:34] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:34] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:34] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:34] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:35] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:05:37] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:05:41] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:05:45] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:05:48] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:05:48] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:05:48] [Server thread/INFO]: [@: Executed 6 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:05:48] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:05:48] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:05:48] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:05:49] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:05:49] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:05:49] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:05:49] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:05:49] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:05:53] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:05:57] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:01] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:02] [Server thread/INFO]: [@: Executed 13 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:03] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:03] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:03] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:03] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:03] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:03] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:03] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:03] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:03] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:05] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:10] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:14] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:16] [Server thread/INFO]: [@: Executed 13 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:16] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:16] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:16] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:16] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:16] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:16] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:17] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:17] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:17] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:18] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:22] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:22] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:22] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:22] [Server thread/INFO]: [@: Executed 13 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:22] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:22] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:22] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:22] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:22] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:22] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:22] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:25] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:29] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:33] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:37] [Server thread/INFO]: [@: Executed 6 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:06:37] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:06:37] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:06:37] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:06:37] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:06:37] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:06:37] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:06:37] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:06:37] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:06:37] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:06:37] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:41] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:46] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:49] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:50] [Server thread/INFO]: [@: Executed 13 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:50] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:51] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:51] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:51] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:51] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:51] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:51] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:51] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:51] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/startgame/active']
-[21:06:53] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:06:57] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:01] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:05] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:06] [Server thread/INFO]: [@: Executed 6 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:07:06] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:07:06] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:07:06] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:07:06] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:07:06] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:07:06] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:07:06] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:07:06] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:07:06] [Server thread/INFO]: [@: Executed 1 command(s) from function 'main:pressure_plate/checkpoint/active']
-[21:07:10] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:13] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:17] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:21] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:25] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:28] [Server thread/INFO]: Villager class_1646['Jeremy'/121, l='ServerLevel[world]', x=-13.50, y=173.00, z=99.50] died, message: 'Jeremy went up in flames'
-[21:07:29] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:33] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:37] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:41] [Server thread/INFO]: [justmore5mins: Set own game mode to Creative Mode]
-[21:07:41] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:46] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:49] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:54] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:58] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:07:59] [Server thread/INFO]: justmore5mins lost connection: Disconnected
-[21:07:59] [Server thread/INFO]: justmore5mins left the game
-[21:08:01] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:08:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:08:04] [Server thread/INFO]: stistop<--[HERE]
-[21:08:05] [Server thread/INFO]: [@: Successfully cloned 1 blocks]
-[21:08:07] [Server thread/INFO]: Stopping the server
-[21:08:07] [Server thread/INFO]: Stopping server
-[21:08:07] [Server thread/INFO]: Saving players
-[21:08:07] [Server thread/INFO]: Saving worlds
-[21:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:08:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:08:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:08:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:08:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:08:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/Users/AustinYu/Documents/sever/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[21:08:52] [main/INFO]: Compatibility level set to JAVA_17
+[21:08:53] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 0 override(s) found
+[21:08:57] [main/INFO]: Smooth Boot config initialized
+[21:09:33] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
+[21:09:33] [main/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
+[21:09:34] [main/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
+[21:09:34] [main/INFO]: [WTHIT] Plugin config reloaded
+[21:09:35] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[21:09:35] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:09:36] [main/INFO]: Found new data pack fabric, loading it automatically
+[21:09:43] [main/INFO]: Loaded 7 recipes
+[21:09:44] [main/INFO]: Loaded 1179 advancements
+[21:09:46] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 3.240 ms
+[21:09:46] [Server thread/INFO]: [WTHIT] Plugin config reloaded
+[21:09:46] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[21:09:46] [Server thread/INFO]: Loading properties
+[21:09:46] [Server thread/INFO]: Default game type: SURVIVAL
+[21:09:46] [Server thread/INFO]: Generating keypair
+[21:09:46] [Server thread/INFO]: Starting Minecraft server on 192.168.1.103:25565
+[21:09:46] [Server thread/INFO]: Using default channel type
+[21:09:47] [Server thread/INFO]: Preparing level "world"
+[21:10:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:10:02] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:10:02] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:10:02] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:10:02] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:10:02] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:10:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:10:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:10:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:10:04] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:10:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:10:05] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:10:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:10:06] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:10:06] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:10:07] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[21:10:07] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[21:10:08] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[21:10:08] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:10:09] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[21:10:09] [Worker-Main-7/INFO]: Preparing spawn area: 3%
+[21:10:10] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[21:10:10] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[21:10:11] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[21:10:11] [Worker-Main-3/INFO]: Preparing spawn area: 5%
+[21:10:12] [Worker-Main-6/INFO]: Preparing spawn area: 5%
+[21:10:12] [Worker-Main-1/INFO]: Preparing spawn area: 5%
+[21:10:13] [Worker-Main-5/INFO]: Preparing spawn area: 6%
+[21:10:13] [Worker-Main-4/INFO]: Preparing spawn area: 7%
+[21:10:14] [Worker-Main-5/INFO]: Preparing spawn area: 7%
+[21:10:14] [Worker-Main-3/INFO]: Preparing spawn area: 8%
+[21:10:15] [Worker-Main-5/INFO]: Preparing spawn area: 9%
+[21:10:15] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[21:10:16] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[21:10:16] [Worker-Main-4/INFO]: Preparing spawn area: 11%
+[21:10:17] [Worker-Main-5/INFO]: Preparing spawn area: 11%
+[21:10:17] [Worker-Main-6/INFO]: Preparing spawn area: 12%
+[21:10:18] [Worker-Main-1/INFO]: Preparing spawn area: 12%
+[21:10:18] [Worker-Main-5/INFO]: Preparing spawn area: 13%
+[21:10:19] [Worker-Main-7/INFO]: Preparing spawn area: 14%
+[21:10:19] [Worker-Main-3/INFO]: Preparing spawn area: 16%
+[21:10:20] [Worker-Main-7/INFO]: Preparing spawn area: 16%
+[21:10:20] [Worker-Main-4/INFO]: Preparing spawn area: 17%
+[21:10:21] [Worker-Main-4/INFO]: Preparing spawn area: 18%
+[21:10:21] [Worker-Main-3/INFO]: Preparing spawn area: 20%
+[21:10:22] [Worker-Main-7/INFO]: Preparing spawn area: 21%
+[21:10:22] [Worker-Main-3/INFO]: Preparing spawn area: 22%
+[21:10:23] [Worker-Main-1/INFO]: Preparing spawn area: 23%
+[21:10:23] [Worker-Main-6/INFO]: Preparing spawn area: 24%
+[21:10:24] [Worker-Main-6/INFO]: Preparing spawn area: 25%
+[21:10:24] [Worker-Main-4/INFO]: Preparing spawn area: 26%
+[21:10:25] [Worker-Main-4/INFO]: Preparing spawn area: 28%
+[21:10:25] [Worker-Main-3/INFO]: Preparing spawn area: 29%
+[21:10:26] [Worker-Main-5/INFO]: Preparing spawn area: 30%
+[21:10:26] [Worker-Main-3/INFO]: Preparing spawn area: 32%
+[21:10:27] [Worker-Main-5/INFO]: Preparing spawn area: 32%
+[21:10:27] [Worker-Main-5/INFO]: Preparing spawn area: 34%
+[21:10:28] [Worker-Main-6/INFO]: Preparing spawn area: 35%
+[21:10:28] [Worker-Main-6/INFO]: Preparing spawn area: 36%
+[21:10:29] [Worker-Main-1/INFO]: Preparing spawn area: 38%
+[21:10:29] [Worker-Main-4/INFO]: Preparing spawn area: 39%
+[21:10:30] [Worker-Main-5/INFO]: Preparing spawn area: 41%
+[21:10:30] [Worker-Main-6/INFO]: Preparing spawn area: 42%
+[21:10:31] [Worker-Main-5/INFO]: Preparing spawn area: 42%
+[21:10:31] [Worker-Main-7/INFO]: Preparing spawn area: 43%
+[21:10:32] [Worker-Main-7/INFO]: Preparing spawn area: 45%
+[21:10:32] [Worker-Main-4/INFO]: Preparing spawn area: 46%
+[21:10:33] [Worker-Main-2/INFO]: Preparing spawn area: 48%
+[21:10:33] [Worker-Main-6/INFO]: Preparing spawn area: 49%
+[21:10:34] [Worker-Main-7/INFO]: Preparing spawn area: 51%
+[21:10:34] [Worker-Main-5/INFO]: Preparing spawn area: 51%
+[21:10:35] [Worker-Main-2/INFO]: Preparing spawn area: 53%
+[21:10:35] [Worker-Main-7/INFO]: Preparing spawn area: 54%
+[21:10:36] [Worker-Main-4/INFO]: Preparing spawn area: 55%
+[21:10:36] [Worker-Main-4/INFO]: Preparing spawn area: 56%
+[21:10:37] [Worker-Main-7/INFO]: Preparing spawn area: 58%
+[21:10:37] [Worker-Main-4/INFO]: Preparing spawn area: 60%
+[21:10:38] [Worker-Main-1/INFO]: Preparing spawn area: 60%
+[21:10:38] [Worker-Main-2/INFO]: Preparing spawn area: 63%
+[21:10:39] [Worker-Main-5/INFO]: Preparing spawn area: 64%
+[21:10:39] [Worker-Main-7/INFO]: Preparing spawn area: 67%
+[21:10:40] [Worker-Main-5/INFO]: Preparing spawn area: 68%
+[21:10:40] [Worker-Main-5/INFO]: Preparing spawn area: 69%
+[21:10:41] [Worker-Main-2/INFO]: Preparing spawn area: 71%
+[21:10:41] [Worker-Main-7/INFO]: Preparing spawn area: 73%
+[21:10:42] [Worker-Main-1/INFO]: Preparing spawn area: 76%
+[21:10:42] [Worker-Main-1/INFO]: Preparing spawn area: 77%
+[21:10:43] [Worker-Main-7/INFO]: Preparing spawn area: 79%
+[21:10:43] [Worker-Main-2/INFO]: Preparing spawn area: 82%
+[21:10:44] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[21:10:50] [Worker-Main-1/INFO]: Preparing spawn area: 84%
+[21:10:50] [Worker-Main-7/INFO]: Preparing spawn area: 84%
+[21:10:50] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[21:10:50] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[21:10:50] [Worker-Main-7/INFO]: Preparing spawn area: 84%
+[21:10:50] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[21:10:50] [Worker-Main-7/INFO]: Preparing spawn area: 84%
+[21:10:50] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[21:10:50] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[21:10:50] [Worker-Main-7/INFO]: Preparing spawn area: 84%
+[21:10:50] [Worker-Main-7/INFO]: Preparing spawn area: 84%
+[21:10:50] [Worker-Main-7/INFO]: Preparing spawn area: 84%
+[21:10:50] [Worker-Main-7/INFO]: Preparing spawn area: 84%
+[21:10:51] [Worker-Main-7/INFO]: Preparing spawn area: 84%
+[21:10:51] [Worker-Main-1/INFO]: Preparing spawn area: 85%
+[21:10:52] [Worker-Main-4/INFO]: Preparing spawn area: 87%
+[21:10:52] [Worker-Main-4/INFO]: Preparing spawn area: 89%
+[21:10:53] [Worker-Main-2/INFO]: Preparing spawn area: 90%
+[21:10:53] [Worker-Main-7/INFO]: Preparing spawn area: 92%
+[21:10:54] [Worker-Main-4/INFO]: Preparing spawn area: 95%
+[21:10:54] [Worker-Main-4/INFO]: Preparing spawn area: 97%
+[21:10:55] [Server thread/INFO]: Time elapsed: 54978 ms
+[21:10:55] [Server thread/INFO]: Done (68.140s)! For help, type "help"
+[21:10:55] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[21:10:55] [Server thread/INFO]: Stopping the server
+[21:10:55] [Server thread/INFO]: Stopping server
+[21:10:55] [Server thread/INFO]: Saving players
+[21:10:55] [Server thread/INFO]: Saving worlds
+[21:11:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:11:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:11:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:11:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:11:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:11:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:11:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

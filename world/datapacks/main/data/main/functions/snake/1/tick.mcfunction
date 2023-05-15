@@ -1,1 +1,0 @@
-execute if score @s snake1_timer matches 0.. run function main:snake/1/started

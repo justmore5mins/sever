@@ -1,1 +1,0 @@
-scoreboard players set @e[type=armor_stand,name="snake_2",tag=begin,limit=1,scores={snake2_timer=-1}] snake2_timer 0

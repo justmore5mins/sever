@@ -1,3 +1,0 @@
-execute unless entity @e[type=armor_stand,name="snake_2"] run function main:snake/2/summon
-execute as @e[type=armor_stand,name="snake_2"] at @s run function main:snake/2/tick
-execute as @e[type=armor_stand,name="snake_2",scores={snake2_timer=2}] at @s run scoreboard players set @e[type=armor_stand,name="snake_2",distance=..1.1,scores={snake2_timer=-1},limit=1] snake2_timer 0

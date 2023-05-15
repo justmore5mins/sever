@@ -1,1 +1,0 @@
-execute as @e[type=marker,name="console",limit=1,scores={target_timer=0..}] run function main:console/timer/target/run

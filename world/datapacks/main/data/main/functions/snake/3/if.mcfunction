@@ -1,2 +1,0 @@
-execute as @e[type=armor_stand,name="snake_3"] at @s run function main:snake/3/tick
-execute as @e[type=armor_stand,name="snake_3",scores={snake3_timer=1}] at @s run scoreboard players set @e[type=armor_stand,name="snake_3",distance=..1.1,scores={snake3_timer=-1},limit=1] snake3_timer 0
