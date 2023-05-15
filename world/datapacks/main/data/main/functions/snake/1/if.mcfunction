@@ -1,0 +1,4 @@
+execute as @e[type=armor_stand,name="snake_1"] at @s run function main:snake/1/tick
+execute as @e[type=armor_stand,name="snake_1",scores={snake1_timer=1}] at @s run scoreboard players set @e[type=armor_stand,name="snake_1",distance=..1.1,scores={snake1_timer=-1},limit=1] snake1_timer 0
+
+fill 13 33 64 13 33 64 lava replace lava

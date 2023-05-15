@@ -1,5 +1,5 @@
-[20:50:55] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.19
-[20:50:55] [main/INFO]: Loading 52 mods:
+[20:55:37] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.19
+[20:55:38] [main/INFO]: Loading 52 mods:
 	- appleskin 2.4.3+mc1.19.4
 	   \-- cloth-config 10.0.95
 	        \-- cloth-basic-math 0.6.1
@@ -64,63 +64,78 @@
 	- smoothboot 1.19.4-1.7.0
 	- wthit 7.2.5
 	- xaerominimap 23.4.0
-[20:50:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/Users/AustinYu/Documents/sever/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[20:50:56] [main/INFO]: Compatibility level set to JAVA_17
-[20:50:57] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 0 override(s) found
-[20:51:00] [main/INFO]: Smooth Boot config initialized
-[20:51:34] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
-[20:51:35] [main/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
-[20:51:35] [main/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
-[20:51:35] [main/INFO]: [WTHIT] Plugin config reloaded
-[20:51:36] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[20:51:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:51:40] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[20:51:44] [main/INFO]: Loaded 7 recipes
-[20:51:45] [main/INFO]: Loaded 1179 advancements
-[20:51:47] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 2.900 ms
-[20:51:47] [Server thread/INFO]: [WTHIT] Plugin config reloaded
-[20:51:47] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[20:51:47] [Server thread/INFO]: Loading properties
-[20:51:47] [Server thread/INFO]: Default game type: SURVIVAL
-[20:51:47] [Server thread/INFO]: Generating keypair
-[20:51:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:51:48] [Server thread/INFO]: Using default channel type
-[20:51:49] [Server thread/INFO]: Preparing level "world"
-[20:51:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:52:05] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:52:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:52:05] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:52:05] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:52:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:52:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:52:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:52:05] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:52:06] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:52:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:52:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:52:06] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:52:06] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:52:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:52:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:52:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:52:07] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:52:07] [Worker-Main-5/INFO]: Preparing spawn area: 6%
-[20:52:08] [Worker-Main-2/INFO]: Preparing spawn area: 35%
-[20:52:14] [Server thread/INFO]: Time elapsed: 16763 ms
-[20:52:14] [Server thread/INFO]: Done (24.776s)! For help, type "help"
-[20:52:14] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[20:52:43] [Server thread/INFO]: Stopping the server
-[20:52:43] [Server thread/INFO]: Stopping server
-[20:52:43] [Server thread/INFO]: Saving players
-[20:52:43] [Server thread/INFO]: Saving worlds
-[20:52:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:52:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:52:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:52:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:52:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:52:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:52:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:55:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/Users/AustinYu/Documents/sever/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[20:55:38] [main/INFO]: Compatibility level set to JAVA_17
+[20:55:39] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 0 override(s) found
+[20:55:41] [main/INFO]: Smooth Boot config initialized
+[20:56:04] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
+[20:56:04] [main/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
+[20:56:04] [main/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
+[20:56:04] [main/INFO]: [WTHIT] Plugin config reloaded
+[20:56:05] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[20:56:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:56:08] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[20:56:10] [main/INFO]: Loaded 7 recipes
+[20:56:11] [main/INFO]: Loaded 1179 advancements
+[20:56:13] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 3.455 ms
+[20:56:13] [Server thread/INFO]: [WTHIT] Plugin config reloaded
+[20:56:13] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[20:56:13] [Server thread/INFO]: Loading properties
+[20:56:13] [Server thread/INFO]: Default game type: SURVIVAL
+[20:56:13] [Server thread/INFO]: Generating keypair
+[20:56:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:56:13] [Server thread/INFO]: Using default channel type
+[20:56:14] [Server thread/INFO]: Preparing level "world"
+[20:56:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:56:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:56:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:56:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:56:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:56:33] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:56:33] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:56:33] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:56:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:56:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:56:33] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:56:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:56:33] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:56:33] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:56:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:56:34] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:56:34] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:56:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:56:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:56:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:56:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:56:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:56:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:56:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:56:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:56:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:56:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:56:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:56:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:56:35] [Worker-Main-3/INFO]: Preparing spawn area: 5%
+[20:56:36] [Worker-Main-1/INFO]: Preparing spawn area: 25%
+[20:56:36] [Worker-Main-2/INFO]: Preparing spawn area: 46%
+[20:56:37] [Worker-Main-6/INFO]: Preparing spawn area: 79%
+[20:56:41] [Server thread/INFO]: Time elapsed: 19547 ms
+[20:56:41] [Server thread/INFO]: Done (27.328s)! For help, type "help"
+[20:56:41] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[20:57:52] [User Authenticator #1/INFO]: UUID of player justmore5mins is 27b0ff8b-d02a-41cc-8942-ada228a08b2e
+[20:57:52] [Server thread/INFO]: justmore5mins[/192.168.1.103:50856] logged in with entity id 134 at (4.5, 78.0, 3.5)
+[20:57:53] [Server thread/INFO]: justmore5mins joined the game
+[20:58:02] [Server thread/INFO]: [justmore5mins: Set own game mode to Creative Mode]
+[20:58:27] [Server thread/INFO]: justmore5mins lost connection: Disconnected
+[20:58:27] [Server thread/INFO]: justmore5mins left the game
+[20:59:41] [Server thread/INFO]: Stopping the server
+[20:59:41] [Server thread/INFO]: Stopping server
+[20:59:41] [Server thread/INFO]: Saving players
+[20:59:41] [Server thread/INFO]: Saving worlds
+[20:59:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:59:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:59:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:59:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:59:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:59:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:59:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

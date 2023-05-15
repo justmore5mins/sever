@@ -1,0 +1,1 @@
+execute if block -16 234 68 jungle_pressure_plate[powered=true] run function main:console/timer/iron_door/open

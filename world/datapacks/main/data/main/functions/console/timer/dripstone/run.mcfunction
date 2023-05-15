@@ -1,0 +1,34 @@
+scoreboard players add @s dripstone_timer 1
+
+execute as @s[scores={dripstone_timer=1}] run function main:console/timer/dripstone/block/1
+execute as @s[scores={dripstone_timer=2}] run function main:console/timer/dripstone/block/2
+execute as @s[scores={dripstone_timer=3}] run function main:console/timer/dripstone/block/3
+execute as @s[scores={dripstone_timer=4}] run function main:console/timer/dripstone/block/4
+execute as @s[scores={dripstone_timer=5}] run function main:console/timer/dripstone/block/5
+execute as @s[scores={dripstone_timer=6}] run function main:console/timer/dripstone/block/6
+execute as @s[scores={dripstone_timer=7}] run function main:console/timer/dripstone/block/7
+execute as @s[scores={dripstone_timer=8}] run function main:console/timer/dripstone/block/8
+execute as @s[scores={dripstone_timer=9}] run function main:console/timer/dripstone/block/9
+execute as @s[scores={dripstone_timer=10}] run function main:console/timer/dripstone/block/10
+execute as @s[scores={dripstone_timer=11}] run function main:console/timer/dripstone/block/11
+execute as @s[scores={dripstone_timer=12}] run function main:console/timer/dripstone/block/12
+execute as @s[scores={dripstone_timer=13}] run function main:console/timer/dripstone/block/13
+execute as @s[scores={dripstone_timer=14}] run function main:console/timer/dripstone/block/14
+execute as @s[scores={dripstone_timer=15}] run function main:console/timer/dripstone/block/15
+execute as @s[scores={dripstone_timer=16}] run function main:console/timer/dripstone/block/16
+execute as @s[scores={dripstone_timer=17}] run function main:console/timer/dripstone/block/17
+execute as @s[scores={dripstone_timer=18}] run function main:console/timer/dripstone/block/18
+execute as @s[scores={dripstone_timer=19}] run function main:console/timer/dripstone/block/19
+execute as @s[scores={dripstone_timer=20}] run function main:console/timer/dripstone/block/20
+execute as @s[scores={dripstone_timer=21}] run function main:console/timer/dripstone/block/21
+execute as @s[scores={dripstone_timer=22}] run function main:console/timer/dripstone/block/22
+execute as @s[scores={dripstone_timer=23}] run function main:console/timer/dripstone/block/23
+execute as @s[scores={dripstone_timer=24}] run function main:console/timer/dripstone/block/24
+execute as @s[scores={dripstone_timer=25}] run function main:console/timer/dripstone/block/25
+execute as @s[scores={dripstone_timer=26}] run function main:console/timer/dripstone/block/26
+execute as @s[scores={dripstone_timer=27}] run function main:console/timer/dripstone/block/27
+execute as @s[scores={dripstone_timer=28}] run function main:console/timer/dripstone/block/28
+execute as @s[scores={dripstone_timer=29}] run function main:console/timer/dripstone/block/29
+execute as @s[scores={dripstone_timer=30}] run function main:console/timer/dripstone/block/30
+
+scoreboard players set @s[scores={dripstone_timer=30}] dripstone_timer 0

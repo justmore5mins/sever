@@ -1,0 +1,1 @@
+execute as @e[type=marker,name="console",limit=1,scores={diamond_timer=0..}] run function main:console/timer/diamond/run
