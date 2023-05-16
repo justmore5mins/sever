@@ -861,9 +861,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_logs": "2023-05-16 21:59:53 +0800"
+      "has_wood_slab": "2023-05-16 21:59:15 +0800"
     },
     "done": true
   },
@@ -873,15 +873,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_wood_slab": "2023-05-16 21:59:15 +0800"
+      "has_logs": "2023-05-16 21:59:53 +0800"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2023-05-16 21:59:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-05-17 06:58:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2023-05-17 06:49:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-05-17 06:58:08 +0800"
     },
     "done": true
   },
