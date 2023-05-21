@@ -1,57 +1,15 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2023-05-21 22:10:48 +0800"
+      "unlock_right_away": "2023-05-22 06:48:19 +0800"
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "elytra": "2023-05-21 22:14:05 +0800"
+      "minecraft:plains": "2023-05-22 06:48:20 +0800"
     },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2023-05-21 22:32:37 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2023-05-21 22:32:37 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2023-05-21 22:32:37 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2023-05-21 22:32:37 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2023-05-21 22:32:37 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2023-05-21 22:32:37 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2023-05-21 22:32:37 +0800"
-    },
-    "done": true
+    "done": false
   },
   "DataVersion": 3337
 }
