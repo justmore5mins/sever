@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2023-05-21 22:32:37 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2023-05-21 22:10:48 +0800"
@@ -14,6 +8,12 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2023-05-21 22:14:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-05-21 22:32:37 +0800"
     },
     "done": true
   },
