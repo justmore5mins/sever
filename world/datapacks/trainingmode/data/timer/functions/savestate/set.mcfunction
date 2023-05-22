@@ -1,5 +1,3 @@
-item replace entity @s armor.head with air
-
 #Find player's marker
 execute as @e[type=marker,tag=sm_marker] if score @s sm_uuid = @p sm_uuid run tag @s add sm_found
 
