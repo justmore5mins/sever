@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "Ja-Wipeout 5",
+            "color": "#17E114"
+        },
+        "description": {
+            "text": "Welcome to Ja-Wipeout 5 by ItsPungpond98",
+            "color": "gray"
+        },
+        "icon": {
+            "item": "minecraft:oak_leaves"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/block/oak_log.png"
+    },
+    "criteria": {
+        "1": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

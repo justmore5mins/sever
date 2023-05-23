@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Flawless Run",
+            "color": "red"
+        },
+        "description": {
+            "text": "Complete The Course Without Failing Once",
+            "color": "gray"
+        },
+        "icon": {
+            "item": "minecraft:water_bucket"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "8": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "system:root"
+}

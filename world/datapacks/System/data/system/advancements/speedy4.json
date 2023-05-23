@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Speedy IV",
+            "color": "blue"
+        },
+        "description": {
+            "text": "Beat My Best Time Of 3:18.6!",
+            "color": "gray"
+        },
+        "icon": {
+            "item": "minecraft:diamond_boots"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "6": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "system:finish"
+}
