@@ -1,5 +1,5 @@
-[21:56:19] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.19
-[21:56:19] [main/INFO]: Loading 52 mods:
+[22:38:06] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.19
+[22:38:07] [main/INFO]: Loading 52 mods:
 	- appleskin 2.4.3+mc1.19.4
 	   \-- cloth-config 10.0.95
 	        \-- cloth-basic-math 0.6.1
@@ -64,64 +64,314 @@
 	- smoothboot 1.19.4-1.7.0
 	- wthit 7.2.5
 	- xaerominimap 23.4.0
-[21:56:20] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/Users/AustinYu/Documents/sever/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[21:56:20] [main/INFO]: Compatibility level set to JAVA_17
-[21:56:20] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 0 override(s) found
-[21:56:22] [main/INFO]: Smooth Boot config initialized
-[21:56:35] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
-[21:56:35] [main/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
-[21:56:35] [main/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
-[21:56:35] [main/INFO]: [WTHIT] Plugin config reloaded
-[21:56:35] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[21:56:35] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:56:37] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[21:56:38] [main/INFO]: Loaded 0 recipes
-[21:56:38] [main/INFO]: Loaded 0 advancements
-[21:56:39] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 3.243 ms
-[21:56:39] [Server thread/INFO]: [WTHIT] Plugin config reloaded
-[21:56:39] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[21:56:39] [Server thread/INFO]: Loading properties
-[21:56:39] [Server thread/INFO]: Default game type: SURVIVAL
-[21:56:39] [Server thread/INFO]: Generating keypair
-[21:56:39] [Server thread/INFO]: Starting Minecraft server on 192.168.1.103:25565
-[21:56:39] [Server thread/INFO]: Using default channel type
-[21:56:39] [Server thread/INFO]: Preparing level "world"
-[21:56:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:56:44] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:56:44] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:56:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:56:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:56:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:56:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:56:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:56:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:56:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:56:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:56:45] [Worker-Main-6/INFO]: Preparing spawn area: 4%
-[21:56:46] [Worker-Main-4/INFO]: Preparing spawn area: 54%
-[21:56:46] [Server thread/INFO]: Time elapsed: 5954 ms
-[21:56:46] [Server thread/INFO]: Done (6.753s)! For help, type "help"
-[21:56:46] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[21:57:32] [User Authenticator #1/INFO]: UUID of player justmore5minsYT is 27b0ff8b-d02a-41cc-8942-ada228a08b2e
-[21:57:33] [Server thread/INFO]: justmore5minsYT[/192.168.1.103:62222] logged in with entity id 57 at (-30.69999998807907, 7.5, -76.24246123744197)
-[21:57:33] [Server thread/INFO]: justmore5minsYT joined the game
-[21:57:34] [Server thread/INFO]: Player justmore5minsYT joined with a matching carpet client
-[22:12:10] [Server thread/INFO]: justmore5minsYT lost connection: Disconnected
-[22:12:10] [Server thread/INFO]: justmore5minsYT left the game
-[22:12:41] [User Authenticator #2/INFO]: UUID of player justmore5minsYT is 27b0ff8b-d02a-41cc-8942-ada228a08b2e
-[22:12:42] [Server thread/INFO]: justmore5minsYT[/192.168.1.103:62293] logged in with entity id 62 at (-8.874174476031213, 5.0, -86.50231345364719)
-[22:12:42] [Server thread/INFO]: justmore5minsYT joined the game
-[22:12:43] [Server thread/INFO]: Player justmore5minsYT joined with a matching carpet client
-[22:36:28] [Server thread/INFO]: justmore5minsYT lost connection: Disconnected
-[22:36:28] [Server thread/INFO]: justmore5minsYT left the game
-[22:36:32] [Server thread/INFO]: Stopping the server
-[22:36:32] [Server thread/INFO]: Stopping server
-[22:36:32] [Server thread/INFO]: Saving players
-[22:36:32] [Server thread/INFO]: Saving worlds
-[22:36:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§lParkour Paradise§r]'/minecraft:overworld
-[22:36:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§lParkour Paradise§r]'/minecraft:the_nether
-[22:36:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§lParkour Paradise§r]'/minecraft:the_end
-[22:36:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:36:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:36:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:36:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:38:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/Users/AustinYu/Documents/sever/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[22:38:07] [main/INFO]: Compatibility level set to JAVA_17
+[22:38:08] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 0 override(s) found
+[22:38:10] [main/INFO]: Smooth Boot config initialized
+[22:38:25] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
+[22:38:25] [main/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
+[22:38:25] [main/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
+[22:38:26] [main/INFO]: [WTHIT] Plugin config reloaded
+[22:38:26] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[22:38:26] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:38:27] [main/INFO]: Found new data pack fabric, loading it automatically
+[22:38:31] [main/INFO]: Loaded 7 recipes
+[22:38:31] [main/INFO]: Loaded 1179 advancements
+[22:38:35] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 3.041 ms
+[22:38:35] [Server thread/INFO]: [WTHIT] Plugin config reloaded
+[22:38:35] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[22:38:35] [Server thread/INFO]: Loading properties
+[22:38:35] [Server thread/INFO]: Default game type: SURVIVAL
+[22:38:35] [Server thread/INFO]: Generating keypair
+[22:38:35] [Server thread/INFO]: Starting Minecraft server on 192.168.1.103:25565
+[22:38:35] [Server thread/INFO]: Using default channel type
+[22:38:36] [Server thread/INFO]: Preparing level "world"
+[22:38:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:38:56] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:39:11] [Worker-Main-7/INFO]: Preparing spawn area: 3%
+[22:39:12] [Worker-Main-4/INFO]: Preparing spawn area: 5%
+[22:39:12] [Worker-Main-7/INFO]: Preparing spawn area: 6%
+[22:39:13] [Worker-Main-4/INFO]: Preparing spawn area: 6%
+[22:39:13] [Worker-Main-6/INFO]: Preparing spawn area: 6%
+[22:39:14] [Worker-Main-5/INFO]: Preparing spawn area: 6%
+[22:39:14] [Worker-Main-4/INFO]: Preparing spawn area: 6%
+[22:39:15] [Worker-Main-2/INFO]: Preparing spawn area: 7%
+[22:39:15] [Worker-Main-6/INFO]: Preparing spawn area: 7%
+[22:39:16] [Worker-Main-7/INFO]: Preparing spawn area: 7%
+[22:39:16] [Worker-Main-1/INFO]: Preparing spawn area: 7%
+[22:39:17] [Worker-Main-7/INFO]: Preparing spawn area: 7%
+[22:39:17] [Worker-Main-3/INFO]: Preparing spawn area: 7%
+[22:39:18] [Worker-Main-7/INFO]: Preparing spawn area: 7%
+[22:39:18] [Worker-Main-2/INFO]: Preparing spawn area: 7%
+[22:39:19] [Worker-Main-7/INFO]: Preparing spawn area: 7%
+[22:39:19] [Worker-Main-2/INFO]: Preparing spawn area: 8%
+[22:39:20] [Worker-Main-3/INFO]: Preparing spawn area: 8%
+[22:39:20] [Worker-Main-4/INFO]: Preparing spawn area: 8%
+[22:39:21] [Worker-Main-2/INFO]: Preparing spawn area: 8%
+[22:39:23] [Worker-Main-4/INFO]: Preparing spawn area: 11%
+[22:39:23] [Worker-Main-7/INFO]: Preparing spawn area: 11%
+[22:39:23] [Worker-Main-7/INFO]: Preparing spawn area: 11%
+[22:39:23] [Worker-Main-5/INFO]: Preparing spawn area: 11%
+[22:39:24] [Worker-Main-6/INFO]: Preparing spawn area: 18%
+[22:39:24] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[22:39:24] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[22:39:24] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:25] [Worker-Main-3/INFO]: Preparing spawn area: 26%
+[22:39:25] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:25] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Worker-Main-2/INFO]: Preparing spawn area: 32%
+[22:39:26] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:26] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[22:39:27] [Worker-Main-3/INFO]: Preparing spawn area: 42%
+[22:39:27] [Worker-Main-6/INFO]: Preparing spawn area: 42%
+[22:39:27] [Worker-Main-6/INFO]: Preparing spawn area: 67%
+[22:39:28] [Server thread/INFO]: Time elapsed: 48189 ms
+[22:39:28] [Server thread/INFO]: Done (51.700s)! For help, type "help"
+[22:39:28] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[22:39:41] [User Authenticator #1/INFO]: UUID of player justmore5minsYT is 27b0ff8b-d02a-41cc-8942-ada228a08b2e
+[22:39:41] [Server thread/INFO]: justmore5minsYT[/192.168.1.103:62485] logged in with entity id 381 at (66.5, 26.0, 65.5)
+[22:39:41] [Server thread/INFO]: justmore5minsYT joined the game
+[22:39:44] [Server thread/INFO]: Player justmore5minsYT joined with a matching carpet client
+[22:40:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[22:40:20] [Server thread/WARN]: justmore5minsYT moved too quickly! 0.023648427815885498,-11.382832817050062,0.2544029281658311
+[22:40:43] [Server thread/INFO]: justmore5minsYT lost connection: Disconnected
+[22:40:43] [Server thread/INFO]: justmore5minsYT left the game
+[22:40:49] [Server thread/INFO]: Stopping the server
+[22:40:49] [Server thread/INFO]: Stopping server
+[22:40:49] [Server thread/INFO]: Saving players
+[22:40:49] [Server thread/INFO]: Saving worlds
+[22:40:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[10 Minute Parkour]'/minecraft:overworld
+[22:40:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[10 Minute Parkour]'/minecraft:the_end
+[22:40:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[10 Minute Parkour]'/minecraft:the_nether
+[22:40:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:40:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:40:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:40:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
