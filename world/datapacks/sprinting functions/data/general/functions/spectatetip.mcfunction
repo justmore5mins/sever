@@ -1,2 +1,0 @@
-tellraw @s [{"text":"As a reward for completing the map, you can now do ","color":"green"},{"text":"/trigger spectate","bold":true},{"text":" if you are in the lobby to spectate the map! To return back to the lobby do "},{"text":"/trigger spectate","bold":true},{"text":" again."}]
-execute at @s run playsound minecraft:entity.player.levelup master @s ~ ~ ~ 5 1.5

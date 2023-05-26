@@ -1,3 +1,0 @@
-execute if score global deathcooldown matches 0 run tellraw @a [{"selector":"@a[tag=showdeaths]","color":"red","bold":true},{"text":" has "},{"score":{"name":"@a[tag=showdeaths]","objective":"totaldeaths"},"color":"red","bold":true},{"text":" deaths!","color":"red"}]
-execute if score global deathcooldown matches 0 run schedule function general:deathcooldown 5s append
-execute if score global deathcooldown matches 0 run scoreboard players set global deathcooldown 1

@@ -1,9 +1,0 @@
-execute if entity @a[x=35.5,y=35,z=1422.5,distance=..0.8,tag=!spectating,tag=!check31] run playsound minecraft:block.end_portal_frame.fill master @a[x=35.5,y=35,z=1422.5,distance=..0.8,tag=!spectating,tag=!check31] 35.5 35 1422.5 100 1
-title @a[x=35.5,y=35,z=1422.5,distance=..0.8,tag=!spectating,tag=!check31] actionbar [{"text":"C","color":"red","bold":true},{"text":"h","color":"gold","bold":true},{"text":"e","color":"yellow","bold":true},{"text":"c","color":"green","bold":true},{"text":"k","color":"aqua","bold":true},{"text":"p","color":"blue","bold":true},{"text":"o","color":"light_purple","bold":true},{"text":"i","color":"red","bold":true},{"text":"n","color":"gold","bold":true},{"text":"t","color":"yellow","bold":true},{"text":"!","color":"green","bold":true}]
-spawnpoint @a[x=35.5,y=35,z=1422.5,distance=..0.8,tag=!spectating,tag=!check31,tag=playcheck] 35 35 1422
-scoreboard players set @a[x=35.5,y=35,z=1422.5,distance=..0.8,tag=!spectating,tag=!check31] level 31
-tellraw @a[x=35.5,y=35,z=1422.5,distance=..0.8,tag=!spectating,tag=!check31] [{"text":"Some players have a really hard time completing this level, if you are having trouble  getting to the end type ","color":"green","hoverEvent":{"action":"show_text","contents":[{"text":"","color":"white","bold":true}]}},{"text":"/trigger skip","bold":true,"hoverEvent":{"action":"show_text","contents":[{"text":"","color":"white","bold":true}]}},{"text":" to the skip this level.","hoverEvent":{"action":"show_text","contents":[{"text":"","color":"white","bold":true}]}}]
-tag @a[x=35.5,y=35,z=1422.5,distance=..0.8,tag=!spectating,tag=!check31] add checkreset
-function checkpoints:removecheckpoint
-tag @a[x=35.5,y=35,z=1422.5,distance=..0.8,tag=!spectating,tag=!check31] add check31
-tag @a[tag=check31] remove check30

@@ -1,1 +1,0 @@
-execute if entity @a[tag=playing,nbt={OnGround:1b},scores={sprint=..5}] run kill @a[tag=!immune,tag=playing,nbt={OnGround:1b},scores={sprint=..5}]

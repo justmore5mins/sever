@@ -1,6 +1,0 @@
-summon minecraft:firework_rocket 29 33 -34 {LifeTime:15,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Explosions:[{Type:1,Flicker:1b,Trail:1b,Colors:[I;16733268],FadeColors:[I;16777215]}]}}}}
-summon minecraft:firework_rocket 32 33 -40 {LifeTime:20,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Explosions:[{Type:4,Flicker:1b,Trail:1b,Colors:[I;4259737],FadeColors:[I;16777215]}]}}}}
-summon minecraft:firework_rocket 33 33 -47 {LifeTime:23,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Explosions:[{Type:2,Flicker:1b,Trail:1b,Colors:[I;16731635],FadeColors:[I;16777215]}]}}}}
-summon minecraft:firework_rocket 41 34 -41 {LifeTime:25,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Explosions:[{Type:3,Flicker:1b,Trail:1b,Colors:[I;16774505],FadeColors:[I;16777215]}]}}}}
-summon minecraft:firework_rocket 35 34 -35 {LifeTime:10,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Explosions:[{Type:0,Flicker:1b,Trail:1b,Colors:[I;6029135],FadeColors:[I;16777215]}]}}}}
-summon minecraft:firework_rocket 33 33 -31 {LifeTime:15,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Explosions:[{Type:0,Flicker:1b,Trail:1b,Colors:[I;4871935],FadeColors:[I;16777215]}]}}}}

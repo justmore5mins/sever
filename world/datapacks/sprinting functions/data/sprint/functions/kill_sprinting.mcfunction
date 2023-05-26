@@ -1,1 +1,0 @@
-execute if entity @a[tag=playing,nbt={OnGround:1b},scores={sprint=..1}] run kill @a[tag=!lobby,tag=playing,nbt={OnGround:1b},scores={sprint=..1}]
