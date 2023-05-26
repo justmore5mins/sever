@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Into The Nether",
+            "color": "green",
+            "bold": false
+        },
+        "description": {
+            "text": "You made it...",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:netherrack"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "parkour_achievements:root"
+}

@@ -1,0 +1,1 @@
+execute if entity @a[tag=clickcheck] run function checkpoints:ifcheckpoints
