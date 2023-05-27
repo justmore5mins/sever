@@ -1,0 +1,11 @@
+gamerule doDaylightCycle false
+gamerule sendCommandFeedback false
+gamerule doWeatherCycle false
+gamerule keepInventory true
+gamerule doTileDrops false
+gamerule doMobLoot false
+gamerule doFireTick false
+gamerule spawnRadius 0
+gamerule randomTickSpeed 0
+gamerule doImmediateRespawn true
+gamerule doMobSpawning false

@@ -1,2 +1,0 @@
-execute unless score winmode winmode matches 7 run scoreboard players add @s Levels 1
-execute unless score winmode winmode matches 7 run tellraw @s ["",{"text":"For earning an advancement, you gained a level!","color":"green"}]
