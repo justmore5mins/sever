@@ -1,0 +1,1 @@
+tellraw @a ["Thank you to thedestruc7i0n for the custom advancements generator. Make your own at advancements.thedestruc7i0n.ca"]

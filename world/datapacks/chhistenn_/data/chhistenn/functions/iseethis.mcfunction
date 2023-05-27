@@ -1,0 +1,1 @@
+tellraw @a ["<",{"selector":"@s"},{"text":"> I gtg, just shat my pants sorry"}]

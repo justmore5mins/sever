@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Completed The Game.",
+            "color": "dark_green",
+            "bold": true
+        },
+        "description": {
+            "text": "You're an unspoken legend. You will be spoken one day."
+        },
+        "icon": {
+            "item": "minecraft:nether_star"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "shuffleparkourtwo:root"
+}

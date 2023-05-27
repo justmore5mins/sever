@@ -1,0 +1,29 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "50 Levels in 5 Minutes",
+            "color": "gold",
+            "bold": true
+        },
+        "description": {
+            "text": "Achieve 50 Levels in the first 5 minutes. Now that's pretty damn impressive."
+        },
+        "icon": {
+            "item": "minecraft:emerald_block"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "50in5": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "chhistenn:advancement_reward"
+    },
+    "parent": "shuffleparkourtwo:root"
+}

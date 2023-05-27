@@ -1,0 +1,29 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "50 Levels in 10 Minutes",
+            "color": "red",
+            "bold": true
+        },
+        "description": {
+            "text": "Achieve 50 Levels in the first 10 minutes. That's also very nice, but I think you can do better."
+        },
+        "icon": {
+            "item": "minecraft:diamond_block"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "50in10": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "chhistenn:advancement_reward"
+    },
+    "parent": "shuffleparkourtwo:root"
+}

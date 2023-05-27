@@ -1,0 +1,29 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "100 Levels in 1 Minute (see description)",
+            "color": "dark_red",
+            "bold": true
+        },
+        "description": {
+            "text": "Achieve 100 Levels in the first minute. Sorry to break it to you, but this is literally impossible. You cheated. Vaffanculo. (<- translate this)"
+        },
+        "icon": {
+            "item": "minecraft:nether_brick"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "100in1": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "chhistenn:advancement_reward"
+    },
+    "parent": "shuffleparkourtwo:root"
+}
